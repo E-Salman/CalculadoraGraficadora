@@ -1,3 +1,0 @@
-aplicacion
-resolverOperacion
-	^hijo
