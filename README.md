@@ -1,5 +1,5 @@
 # CalculadoraGraficadora
-Calculadora que computa y grafica varias operaciones
+Calculadora que interpreta y descompone una funcion ingresada, utilizando un algoritmo Shunting Yard, con el objetivo de computarla y graficarla.
 
 ![image](https://user-images.githubusercontent.com/71310857/149805277-b4cb7c42-3db6-48f4-8d5c-83e1dcb51a5c.png)
 
