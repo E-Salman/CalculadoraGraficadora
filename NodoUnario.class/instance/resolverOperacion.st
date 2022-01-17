@@ -1,0 +1,3 @@
+aplicacion
+resolverOperacion
+	^self subclassResponsibility 

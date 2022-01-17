@@ -1,0 +1,1 @@
+Subclase de error usada para diferenciar  errores del usuario al ingresar datos en los morphs de texto de InterfazUsuario.
